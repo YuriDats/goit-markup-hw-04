@@ -357,6 +357,7 @@ p {
     padding-top: 120px; 
     padding-bottom: 120px;
 }
+
 .portfolio-url {
     display: flex;
     flex-wrap: wrap;
@@ -465,5 +466,8 @@ p {
     margin: 0;
 }
 
-
-/* cursor: pointer; */
+.footer-media {
+    display: flex;
+    align-items: baseline;
+    margin-right: 120px;
+}
